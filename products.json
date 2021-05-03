@@ -3,1482 +3,1255 @@
       "id": 183353,
       "name": "מארז חמישיית שוקולד חלב פרה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290104729492.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290104729492.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 17.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 175150,
       "name": "מארז חמישיית שוקולד מריר פרה - פרווה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/6adb4a9c-6f34-4c97-93d8-9f6e2bcd8c04_7290104727726.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/6adb4a9c-6f34-4c97-93d8-9f6e2bcd8c04_7290104727726.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 17.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 6339,
       "name": "מארז זוג שוקולד פרה מריר 60% - פרווה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290100859162.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290100859162.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 13.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 1418,
       "name": "שוקולד חלב פרה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/170053.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/170053.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 7258,
       "name": "שוקולד פרה מריר - פרווה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/170077.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/170077.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 934, "name": "שוקולד חלב במילוי קרם בטעם תות פרה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8747424.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8747424.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 7856, "name": "שוקולד חלב אוורירי פרה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8753982.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8753982.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",   
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 76,
       "name": "שוקולד מריר עם שברי אגוזים פרה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/180212.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/180212.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 390281,
       "name": "שוקולד חלב עם שברי אגוזי לוז",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290112351098.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290112351098.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 1908,
       "name": "שוקולד חלב במילוי קרם נוגט פרה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/170275.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/170275.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 3848, "name": "שוקולד חלב במילוי קרם חלב פרה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3903955.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3903955.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 380121,
       "name": "שוקולד פרה לבן",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290112348548.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290112348548.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 9215, "name": "שוקולד לבן עם שברי עוגיות פרה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8750400.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8750400.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 394055,
       "name": "שוקולד חלב עם סוכריות קופצות פרה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/de33fe21-3b5d-4f31-bee5-ffd545421dc2_7290112351128.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/de33fe21-3b5d-4f31-bee5-ffd545421dc2_7290112351128.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",   
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 573, "name": "שוקולד חלב עם עדשים פרה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/1814222.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/1814222.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 390172,
       "name": "שוקולד חלב עם פצפוצי אורז",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290112351104.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290112351104.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 1132,
       "name": "שוקולד מריר 60% פרה - פרווה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290100854266.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290100854266.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 409622,
       "name": "שוקולד פרה מיקס עוגיות ואגוזי לוז מקורמלים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290112349651.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290112349651.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",   
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 409623,
       "name": "שוקולד פרה מיקס עוגיות ושקדים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290112351197.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290112351197.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",   
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 378018,
       "name": "קראנצ' שוקולד חלב ביסקוויט שוקו Black & White",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290112331984.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290112331984.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 409621,
       "name": "שוקולד פרה מיקס שברי גלילי וופל וקוקוס",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290112351210.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290112351210.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",   
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 324398,
       "name": "שוקולד בלונדי לבן קרמל עם קוקוס קלוי",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290107951630.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290107951630.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 6.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 339345,
       "name": "שוקולד פרה אקסטרה חלב אגוזים וצימוקים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290107948029.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290107948029.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 339346,
       "name": "שוקולד פרה אקסטרה חלב יוגורט תות ועוגיות",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290107948012.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290107948012.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 3762, "name": "שוקולד קראנצ' ביסקוויט",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/5200908.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/5200908.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 324397,
       "name": "שוקולד בלונדי לבן קרמל עם שברי קרמל ומלח",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290107951623.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290107951623.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",
       "price": 6.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 149369,
       "name": "אצבעות שוקולד חלב במילוי קרם חלב פרה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290103402815.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290103402815.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",   
       "price": 6.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 149372,
       "name": "אצבעות שוקולד חלב במילוי קרם חלב וסוכריות קופצות פרה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290103407223.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290103407223.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "עלית",   
       "price": 6.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 7591,
       "name": "שוקולד חלב עם מרציפן",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4000417025005.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4000417025005.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "ריטר ספורט Ritter sport",
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 2973,
       "name": "שוקולד חלב עם אגוזים וצימוקים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4000417022004.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4000417022004.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "ריטר ספורט Ritter sport",
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 239146,
       "name": "שוקולד במילוי קרם מוס שוקולד",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4000417294005.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4000417294005.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "ריטר ספורט Ritter sport",
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 10748,
       "name": "שוקולד חלב עם נוגט",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4000417026002.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4000417026002.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "ריטר ספורט Ritter sport",
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 251681,
       "name": "שוקולד חלב עם קוקוס",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4000417298003.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4000417298003.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "ריטר ספורט Ritter sport",
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 304433,
       "name": "שוקולד חלב במילוי מוס קרמל ושברי שקדים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4000417211002.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4000417211002.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "ריטר ספורט Ritter sport",
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 13487,
       "name": "שוקולד חלב עם אגוזי לוז שלמים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4000417019004.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4000417019004.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "ריטר ספורט Ritter sport",
       "price": 9.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 304431,
       "name": "שוקולד חלב עם שברי אגוזי לוז",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4000417222008.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4000417222008.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "ריטר ספורט Ritter sport",
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 4232,
       "name": "שוקולד חלב עם שקדים שלמים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4000417023001.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4000417023001.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "ריטר ספורט Ritter sport",
       "price": 9.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 183535,
       "name": "שוקולד מריר עם אגוזי לוז שלמים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4000417224002.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4000417224002.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "ריטר ספורט Ritter sport",
       "price": 9.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 6245,
       "name": "שוקולד חלב",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/f107ffd5-d9b2-4f9d-a3db-65c8c90d78ef_3045140105502.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/f107ffd5-d9b2-4f9d-a3db-65c8c90d78ef_3045140105502.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "מילקה Milka",
       "price": 7.5,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 234197,
       "name": "שוקולד חלב עם שברי אוראו OREO",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/90561dbf-7e92-4807-a344-5cf75b5f5446_7622300617820.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/90561dbf-7e92-4807-a344-5cf75b5f5446_7622300617820.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "מילקה Milka",
       "price": 7.5,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 4953,
       "name": "שוקולד חלב עם צימוקים ואגוזים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/a734d102-2f99-485b-9d01-87f5a149804f_3045140280902.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/a734d102-2f99-485b-9d01-87f5a149804f_3045140280902.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "מילקה Milka",
       "price": 7.5,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 314557,
       "name": "שוקולד חלב עם שברי קרמל Daim",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/71b40c11-a5bc-4901-9f26-83c21e696a6e_7622210078131.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/71b40c11-a5bc-4901-9f26-83c21e696a6e_7622210078131.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "מילקה Milka",
       "price": 7.5,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 10797,
       "name": "שוקולד חלב עם שברי אגוזי לוז",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/a288f1e6-da84-4982-8975-c3ca000078a2_4025700001023.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/a288f1e6-da84-4982-8975-c3ca000078a2_4025700001023.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "מילקה Milka",
       "price": 7.5,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 234198,
       "name": "שוקולד מריר וחלב",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/d0f82400-45d5-4f05-a897-836ac151f0bd_7622300495046.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/d0f82400-45d5-4f05-a897-836ac151f0bd_7622300495046.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "מילקה Milka",
       "price": 7.5,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 270817,
       "name": "שוקולד חלב ושוקולד לבן Happy Cow",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/6ee175e5-e9e2-4108-830c-0af70357495a_7622400005190.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/6ee175e5-e9e2-4108-830c-0af70357495a_7622400005190.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "מילקה Milka",
       "price": 7.5,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 176493,
       "name": "שוקולד חלב במילוי בטעם קרם תות",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/0ceed842-641c-4f12-be9f-022798e47bc0_7622300498429.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/0ceed842-641c-4f12-be9f-022798e47bc0_7622300498429.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "מילקה Milka",
       "price": 7.5,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 336981,
       "name": "שוקולד חלב במילוי סוכריות עדשים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7622210163899.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7622210163899.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "מילקה Milka",
       "price": 7.5,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 314787,
       "name": "שוקולד חלב",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7622300200237.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7622300200237.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "מילקה Milka",
       "price": 10.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 389946,
       "name": "שוקולד לבן",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/e8f31907-353e-4f47-96fa-81fd0e17c970_4025700001962.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/e8f31907-353e-4f47-96fa-81fd0e17c970_4025700001962.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "מילקה Milka",
       "price": 7.5,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 410477,
       "name": "שוקולד חלב סנדוויץ אוראו",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/ad352bfd-399b-4910-9833-19078d288b0c_7622210826053.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/ad352bfd-399b-4910-9833-19078d288b0c_7622210826053.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "מילקה Milka",   
       "price": 7.5,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 129416,
       "name": "שוקולד חלב עם קרמל",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3d8311d8-630f-4c56-8010-f3bd943c6f3b_7622201050757.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3d8311d8-630f-4c56-8010-f3bd943c6f3b_7622201050757.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "מילקה Milka",   
       "price": 7.5,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 188898,
       "name": "שוקולד מריר עם אגוזי לוז שלמים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7610400075770.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7610400075770.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 24.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 188897,
       "name": "שוקולד חלב עם אגוזי לוז שלמים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7610400075787.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7610400075787.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 24.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 188899,
       "name": "שוקולד לבן עם שקדים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7610400075794.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7610400075794.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 24.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 333626,
       "name": "שוקולד מריר לה גרנד עם אוכמניות וחמוציות",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7610400086202.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7610400086202.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 24.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 146354,
       "name": "שוקולד מריר במילוי קרם",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7610400074155.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7610400074155.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 15.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 7597,
       "name": "שוקולד חלב במילוי קרם",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7610400014649.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7610400014649.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 15.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 146355,
       "name": "שוקולד חלב במילוי קרם אגוזים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7610400068369.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7610400068369.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 15.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 519,
       "name": "שוקולד מריר מנטה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3046920028752.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3046920028752.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 1023,
       "name": "שוקולד מריר אקסלנס 70%",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3046920028004.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3046920028004.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 333622,
       "name": "שוקולד מריר אקסלנס 78%",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3046920010047.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3046920010047.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 14.9,
       "isSugar": false,
       "isNatran": false,
-      "isShumanRavuy": false,
-      "isHealthy": false
+      "isShumanRavuy": false
     },
     {
       "id": 6737,
       "name": "שוקולד מריר אקסלנס 85%",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3046920028363.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3046920028363.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 280452,
       "name": "שוקולד מריר אקסלנס 90% קקאו",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3046920029759.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3046920029759.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 14.9,
       "isSugar": false,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 280454,
       "name": "שוקולד מריר אקסלנס במילוי קרמל ומלח ים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3046920027281.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3046920027281.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 304773,
       "name": "שוקולד מריר אקסלנס מעודן 70%",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3046920029780.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3046920029780.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 14.9,
       "isSugar": false,
       "isNatran": false,
-      "isShumanRavuy": false,
-      "isHealthy": false
+      "isShumanRavuy": false
     },
     {
       "id": 333620,
       "name": "שוקולד מריר אקסלנס עם אגוזי לוז",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3046920010801.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3046920010801.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 188889,
       "name": "שוקולד מריר אקסלנס עם מלח ים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3046920029674.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3046920029674.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 271477,
       "name": "שוקולד מריר אקסלנס עם צ'ילי",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7610400070577.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7610400070577.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 333624,
       "name": "שוקולד מריר אקסלנס 99%",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3046920028721.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3046920028721.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 14.9,
       "isSugar": false,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 333623,
       "name": "שוקולד מריר אקסלנס עם שקדים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3046920029698.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3046920029698.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לינדט Lindt",
       "price": 14.9,
       "isSugar": false,
       "isNatran": false,
-      "isShumanRavuy": false,
-      "isHealthy": false
+      "isShumanRavuy": false
     },
     {
       "id": 277831, "name": "שוקולד מריר 60%- מארז 3 יח'",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3144068.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3144068.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "צ'וקטה Chocketa",
       "price": 8.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 299238, "name": "שוקולד מריר 70% מוצקי קקאו",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3144112.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3144112.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "צ'וקטה Chocketa",
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 299240, "name": "שוקולד מריר 85% מוצקי קקאו",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3144761.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3144761.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "צ'וקטה Chocketa",
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 7815,
       "name": "מארז שלוש חפיסות שוקולד חלב",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/124841.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/124841.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "ורד הגליל",
       "price": 12.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 8865, "name": "מארז זוג חפיסות שוקולד מריר 60%",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3808649.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3808649.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "ורד הגליל",
       "price": 10.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 357588,
       "name": "מארז 6 חפיסות שוקולד מריר פרווה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290112491558.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290112491558.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "ורד הגליל",
       "price": 19.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 302291,
       "name": "שוקולד חלב עם וופל במילוי קרם אגוזי לוז",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8000380157440.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8000380157440.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לואקר Loacker",   
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 324731,
       "name": "שוקולד חלב עם וופל",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8000380184316.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8000380184316.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לואקר Loacker",   
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 324683,
       "name": "שוקולד לבן עם וופל",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8000380184330.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8000380184330.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "לואקר Loacker",   
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 340950,
       "name": "שוקולד מריר במילוי קרם בטעם שוקולד מריר",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8690504153740.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8690504153740.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "גודייבה  GODIVA",
       "price": 12.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 340951,
       "name": "שוקולד חלב במילוי קרם בטעם פרלין אגוזים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8690504153849.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8690504153849.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "גודייבה  GODIVA",
       "price": 12.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 379329,
       "name": "שוקולד חלב",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8690766156367.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8690766156367.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "גודייבה  GODIVA",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 379336,
       "name": "שוקולד חלב עם שברי שקדים קלויים דבש ומלח",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8690766156398.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8690766156398.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "גודייבה  GODIVA",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 379332,
       "name": "שוקולד מריר 72% מוצקי קקאו",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8690766156374.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8690766156374.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "גודייבה  GODIVA",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 379334,
       "name": "שוקולד מריר 90% מוצקי קקאו",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/018651b3-8bea-495c-8cce-7034b76cbc7b_8690766156381.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/018651b3-8bea-495c-8cce-7034b76cbc7b_8690766156381.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "גודייבה  GODIVA",
       "price": 14.9,
       "isSugar": false,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 379330,
       "name": "שוקולד מריר בטעם תפוז אדום",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8690766156404.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8690766156404.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "גודייבה  GODIVA",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 379335,
       "name": "שוקולד מריר בטעם פלפל ורוד עם חתיכות תות מסוכר",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8690766156411.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8690766156411.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "גודייבה  GODIVA",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 410953,
       "name": "אצבעות שוקולד חלב",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/000e3f3e-7559-4623-a6b3-9e9d149a6e2f_31290140237.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/000e3f3e-7559-4623-a6b3-9e9d149a6e2f_31290140237.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "גודייבה  GODIVA",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 410952,
       "name": "אצבעות שוקולד חלב עם שקדים ודבש",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/8d9e4844-15e2-43ca-8f4a-9309f6f4613d_31290140251.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/8d9e4844-15e2-43ca-8f4a-9309f6f4613d_31290140251.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "גודייבה  GODIVA",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
-      "id": 410949,     "name": "אצבעות שוקולד מריר 72%",
+      "id": 410949,
+      "name": "אצבעות שוקולד מריר 72%",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/a28e1534-f592-456c-ac79-c9b767fc448c_31290140107.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/a28e1534-f592-456c-ac79-c9b767fc448c_31290140107.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "גודייבה  GODIVA",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
-      "id": 410950,     "name": "אצבעות שוקולד מריר עם שקדים קלויים",
+      "id": 410950,
+      "name": "אצבעות שוקולד מריר עם שקדים קלויים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/3e873690-109e-40c7-9665-963eafa70d10_31290140176.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/3e873690-109e-40c7-9665-963eafa70d10_31290140176.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "גודייבה  GODIVA",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 410951,     "name": "אצבעות שוקולד מריר עם מלח ים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7f0bf75c-d837-4fed-8f89-075c969ed771_31290140190.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7f0bf75c-d837-4fed-8f89-075c969ed771_31290140190.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "גודייבה  GODIVA",
       "price": 14.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 352852,
       "name": "שוקולד חלב בטעם אוכמניות",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4823077614804.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4823077614804.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "רושן  Roshen",   
       "price": 3.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 352848,
       "name": "שוקולד חלב עם אגוזי לוז שלמים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4823077613210.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4823077613210.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "רושן  Roshen",   
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 352843,
       "name": "שוקולד מריר 78%",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4823077609299.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4823077609299.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "רושן  Roshen",   
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 352847,
       "name": "שוקולד מריר עם אגוזי לוז שלמים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/4823077613203.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/4823077613203.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "רושן  Roshen",   
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 36003,
       "name": "מארז אגו שוקולד מריר",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290010814244.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290010814244.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "כרמית",
       "price": 11.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 163839,
       "name": "מארז אגו שוקולד לבן",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290010814268.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290010814268.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "כרמית",
       "price": 11.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 337939,
       "name": "אגו שוקולד מריר 70%",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290017129754.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290017129754.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "כרמית",
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 337942,
       "name": "אגו שוקולד מריר 70% בטעם פטל",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290017129839.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290017129839.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "כרמית",
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 337941,
       "name": "אגו שוקולד מריר 70% בטעם קפה",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290017129778.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290017129778.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "כרמית",
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 163837,
       "name": "מארז אגו שוקולד חלב",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290010814251.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290010814251.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "כרמית",
       "price": 11.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 285183,
       "name": "שוקולד חלב ריסס Reese's במילוי חמאת בוטנים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/34000442652.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/34000442652.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "הרשיס Hershey's",
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 336500,
       "name": "שוקולד חלב עם ופל ואגוזים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290112490117.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290112490117.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "קליק",   
       "price": 4.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 336502,
       "name": "שוקולד חלב עם קורנפלקס ופצפוצים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7290107649605.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7290107649605.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "קליק",   
       "price": 4.9,
       
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 271511,
       "name": "שוקולד חלב קריספ פצפוצים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/dba039c8-07fb-4e3f-aa32-f51fac3067c0_7290107640220.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/dba039c8-07fb-4e3f-aa32-f51fac3067c0_7290107640220.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "קליק",   
       "price": 4.9,
       "isSugar": false,
       "isNatran": false,
-      "isShumanRavuy": false,
-      "isHealthy": false
+      "isShumanRavuy": false
     },
     {
-      "id": 4791,     "name": "שוקולד חלב טובלרון",
+      "id": 4791,
+      "name": "שוקולד חלב טובלרון",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/70221011116.jpg",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/70221011116.jpg",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "טובלרון Toblerone",
       "price": 9.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 362606,
       "name": "שוקולד אורירי חלב",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/ced64a1e-905c-49d2-ae7a-ab1863abdb54_4823077626227.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/ced64a1e-905c-49d2-ae7a-ab1863abdb54_4823077626227.png",
       "categoryName": "ממתקים וחטיפים",
-      "manufacturerName": "רושן  Roshen",   
+      "manufacturerName": "רושן Roshen",   
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 362613,
       "name": "שוקולד אורירי לבן",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/52c9673d-ab8d-4cbb-a7d2-20b096b31885_4823077626364.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/52c9673d-ab8d-4cbb-a7d2-20b096b31885_4823077626364.png",
       "categoryName": "ממתקים וחטיפים",
-      "manufacturerName": "רושן  Roshen",   
+      "manufacturerName": "רושן Roshen",   
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 362605,
       "name": "שוקולד אורירי לבן קרמל",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/e613bb53-ce61-4683-a6ca-1808032bc682_4823077626241.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/e613bb53-ce61-4683-a6ca-1808032bc682_4823077626241.png",
       "categoryName": "ממתקים וחטיפים",
-      "manufacturerName": "רושן  Roshen",   
+      "manufacturerName": "רושן Roshen",   
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 362608,
       "name": "שוקולד אורירי מריר",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/21a48268-1dd4-40ef-bed5-8ac713f96ceb_4823077626203.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/21a48268-1dd4-40ef-bed5-8ac713f96ceb_4823077626203.png",
       "categoryName": "ממתקים וחטיפים",
-      "manufacturerName": "רושן  Roshen",   
+      "manufacturerName": "רושן Roshen",   
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 389948,
       "name": "שוקולד חלב דארק מילק",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/b8cb5dbf-7680-4725-abd3-3a74c6314c24_7622210646033.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/b8cb5dbf-7680-4725-abd3-3a74c6314c24_7622210646033.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "מילקה Milka",   
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 358049,
       "name": "שוקולד חלב נוגט בטעם תפוז",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/7e714388-82df-409a-bc96-f026369fa270_4823077622984.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/7e714388-82df-409a-bc96-f026369fa270_4823077622984.png",
       "categoryName": "ממתקים וחטיפים",
-      "manufacturerName": "רושן  Roshen",   
+      "manufacturerName": "רושן Roshen",   
       "price": 3.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 352859,
       "name": "שוקולד חלב עם שקדים שלמים",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/6be6588e-4476-4241-a780-2da1e94a30c5_4823077619137.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/6be6588e-4476-4241-a780-2da1e94a30c5_4823077619137.png",
       "categoryName": "ממתקים וחטיפים",
-      "manufacturerName": "רושן  Roshen",   
+      "manufacturerName": "רושן Roshen",   
       "price": 7.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     },
     {
       "id": 352860,
       "name": "שוקולד מריר עם שברי אגוזי לוז",
       "img": "https://hazihinamprod01.blob.core.windows.net/images/Items/Medium/e4b64bd3-2a0c-41b4-adaa-34e9636bb81d_4823077620249.png",
-      "imgBig": "https://hazihinamprod01.blob.core.windows.net/images/Items/Big/e4b64bd3-2a0c-41b4-adaa-34e9636bb81d_4823077620249.png",
       "categoryName": "ממתקים וחטיפים",
       "manufacturerName": "רושן  Roshen",   
       "price": 5.9,
       "isSugar": true,
       "isNatran": false,
-      "isShumanRavuy": true,
-      "isHealthy": false
+      "isShumanRavuy": true
     }
   ]
