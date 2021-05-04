@@ -16,7 +16,6 @@ router.get("/", (req, res) => {
 
 router.get("/:id", (req, res) => {
   const id = Number(req.params.id);
-  console.log("id", id);
   const product = products.filter((product: Product) => product.id === id);
   res.send(product[0]);
 });
