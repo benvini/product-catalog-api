@@ -1,23 +1,41 @@
 import express from "express";
-const products = require("../products.json");
-import { Product } from "./types";
+import { get } from "lodash";
 const router = express.Router();
+import {
+  getProducts,
+  getProductsByText,
+  getProductById,
+} from "../shared/utils/products";
 
 router.get("/", (req, res) => {
-  const start = Number(req.query.start);
-  let end = Number(req.query.end);
+  const start = Number(get(req.query, "start", 0));
+  const end = Number(get(req.query, "end", 0));
 
-  if (end - 1 > products.length) {
-    end = products.length;
+  if (!start && !end) {
+    res.status(400).send("Invalid input");
   }
+  const products = getProducts(start, end);
+  res.send(products);
+});
 
-  res.send(products.slice(start, end));
+router.get("/find_products", (req, res) => {
+  const userInput = get(req.query, "text", "") as string;
+
+  if (!userInput) {
+    res.status(400).send("Invalid input");
+  }
+  const products = getProductsByText(userInput);
+  res.send(products);
 });
 
 router.get("/:id", (req, res) => {
-  const id = Number(req.params.id);
-  const product = products.filter((product: Product) => product.id === id);
-  res.send(product[0]);
+  const id = Number(get(req.params, "id", -1));
+
+  if (id === -1) {
+    res.status(400).send("Invalid input");
+  }
+  const product = getProductById(id);
+  res.send(product);
 });
 
 module.exports = router;
