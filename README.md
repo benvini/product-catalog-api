@@ -1,1 +1,2 @@
-yarn start to run the server
+1. "yarn"
+2. "yarn start" - to run the server
