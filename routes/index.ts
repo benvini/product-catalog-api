@@ -1,17 +1,19 @@
 import express from "express";
 import { get } from "lodash";
 const router = express.Router();
+
 import {
   getProducts,
   getProductsByText,
   getProductById,
 } from "../shared/utils/products";
+import {MAX_PRODUCTS_AMOUNT} from '../constants/constants';
 
 router.get("/", (req, res) => {
   const start = Number(get(req.query, "start", 0));
   const end = Number(get(req.query, "end", 0));
 
-  if (!start && !end) {
+  if ((!start && !end) || end - start > MAX_PRODUCTS_AMOUNT) {
     res.status(400).send("Invalid input");
   }
   const products = getProducts(start, end);
